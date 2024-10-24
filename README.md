@@ -6,6 +6,8 @@
 🌟 About Me
 I am Reddy Sushma Sri, a Computer Science and Engineering student at Lovely Professional University, specializing in Artificial Intelligence and Data Engineering, and I’m set to graduate in 2026. I have skills in Python, C, Data Structures and Algorithms, Java, and I’m particularly interested in Prompt Engineering, where I’m eager to gain hands-on experience. My strengths include time management, teamwork, communication, and problem-solving. While I’m confident in these areas, I’m actively working on improving my public speaking and attention to detail. I’m always ready to take on new challenges and aim to deliver my work with dedication and honesty, especially in areas where I can grow and make an impact.
 
+--------------------------------------------------------------------------------
+
 
 💻 Projects
 (1)Construction Website
